@@ -295,6 +295,9 @@
 % To change the text before the DOI, adjust this command
 %\renewcommand\doitext{doi:}
 
+% New command for PMIDs
+\newcommand{\pmid}[1]{PMID:\href{https://www.ncbi.nlm.nih.gov/pubmed/#1}{#1}}
+
 % Provides a linked \url{#1} that doesn't require escape characters
 \usepackage{url}
 
@@ -467,31 +470,31 @@ Lexington, VA
   \emph{American Journal of Transplantation}. Accepted.
 %  \doi{10.1111/ctr.13184}
 
-\item Ruck JM, Zhou S, \textbf{Thomas AG}, Cramm SL, Massie AB,
-  Montgomery JR, Berger JC, Henderson ML, Segev DL.
-  Electronic messaging and communication with living kidney donors.
-  \emph{Clinical Transplantation}. In Press.
-  \doi{10.1111/ctr.13184}
-
 \item Henderson ML\dag, DiBrito SR\dag, \textbf{Thomas AG}, Holscher CM,
   Shaffer AA, Bowring MG, Purnell TS, Massie AB, Garonzik-Wang JM,
   Waldram M, Lentine KL, Segev DL.  Landscape of Living Multi-organ
   Donation in the United States: A Registry-Based Cohort Study.
-  \emph{Transplantation}. In Press. \\
-  \doi{10.1097/TP.0000000000002082}
+  \emph{Transplantation}. 2018 Jan 11.
+  \pmid{29329190} \doi{10.1097/TP.0000000000002082}
+
+\item Ruck JM, Zhou S, \textbf{Thomas AG}, Cramm SL, Massie AB,
+  Montgomery JR, Berger JC, Henderson ML, Segev DL.
+  Electronic messaging and communication with living kidney donors.
+  \emph{Clinical Transplantation}. 2017 Dec 27.
+  \pmid{29281129} \doi{10.1111/ctr.13184}
+
+\item Henderson ML\dag, \textbf{Thomas AG\dag}, Shaffer A, Massie AB, Luo X,
+  Holscher CM, Purnell TS, Lentine K, Segev DL. The National Landscape
+  of Living Kidney Donor Follow-up in the United States.
+  \emph{American Journal of Transplantation}. 2017 Dec 1.
+  \pmid{28510355} \doi{10.1111/ajt.14356}
 
 \item Treat E, Chow EKH, Peipert JD, Waterman A, Kwan L, Massie AB,
   \textbf{Thomas AG}, Bowring MG, Leeser D, Flechner S, Melcher ML, Kapur S,
   Segev DL, Veale J. Shipping Living Donor Kidneys and Transplant Recipient
   Outcomes.
-  \emph{American Journal of Transplantation}. In Press.
-  \doi{10.1111/ajt.14597}
-
-\item Henderson ML\dag, \textbf{Thomas AG\dag}, Shaffer A, Massie AB, Luo X,
-  Holscher CM, Purnell TS, Lentine K, Segev DL. The National Landscape
-  of Living Kidney Donor Follow-up in the United States.
-  \emph{American Journal of Transplantation}. 2017 June 30.
-  \doi{10.1111/ajt.14356}
+  \emph{American Journal of Transplantation}. 2017 Nov 22.
+  \pmid{29165871} \doi{10.1111/ajt.14597}
 
 \item Long A, Mbabali I, Hutton HE, \textbf{Thomas AG}, Bugos E,
   Mulamba J, Amico KR, Nalugoda F, Gray RH,
@@ -500,20 +503,21 @@ Lexington, VA
   Treatment and Prevention Intervention in an HIV Hotspot
   Fishing Community in Rakai, Uganda. \emph{Journal of the International
   Association of Providers of AIDS Care}. 2017 May 22. 5:499-505
-  \doi{10.1177/2325957417709089}
+  \pmid{28528560} \doi{10.1177/2325957417709089}
 
 \item Perin J, \textbf{Thomas AG}, Oldja L, Ahmed S, Parvin T,
   Bhuyian SI, Sarker B, Biswas SK, Faruque AS,
   Sack RB, and George CM. Geophagy is associated with growth
   faltering in children in rural Bangladesh.
   \emph{The Journal of Pediatrics}. 2016 Nov 30; 178:34-9.
-  \doi{10.1016/j.jpeds.2016.06.077}
+  \pmid{27496267} \doi{10.1016/j.jpeds.2016.06.077}
 
 \end{bibenum}
 
-\begin{outerlist}
-  \item \dag Indicates Co-first Author
-\end{outerlist}
+\vspace{5mm}
+%\begin{outerlist}
+  \textbf{\dag} Indicates Co-first Author
+%\end{outerlist}
 
 \section{Journal Articles\\Under Review}
 \restartlist{bibenum}
@@ -639,6 +643,10 @@ Lexington, VA
   Miami Beach, FL, USA, March 1 - 3, 2018.
 
 \end{bibenum}
+
+\begin{outerlist}
+  \item Presentor(s) underlined
+\end{outerlist}
 
 \section{Conference Posters}
 \restartlist{bibenum}
@@ -911,10 +919,6 @@ Lexington, VA
   San Deigo, CA, USA, November 9-13, 2013.
 
 \end{bibenum}
-
-\begin{outerlist}
-  \item Presentor(s) underlined
-\end{outerlist}
 
 \section{Invited Talks}
 \restartlist{bibenum}
