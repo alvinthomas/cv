@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017) (preloaded format=pdflatex 2017.5.23)  20 MAR 2018 17:18
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017) (preloaded format=pdflatex 2017.5.23)  27 MAR 2018 22:17
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -423,20 +423,20 @@ File: omslmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
 LaTeX Font Info:    Font shape `OMS/lmr/m/n' in size <10> not available
 (Font)              Font shape `OMS/lmsy/m/n' tried instead on input line 403.
 LaTeX Font Info:    Font shape `OMS/lmr/bx/n' in size <10> not available
-(Font)              Font shape `OMS/lmsy/b/n' tried instead on input line 457.
+(Font)              Font shape `OMS/lmsy/b/n' tried instead on input line 456.
  [1
 
 {/usr/local/texlive/2017/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\\' on input line 539.
+(hyperref)                removing `\\' on input line 546.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\\' on input line 580.
+(hyperref)                removing `\\' on input line 602.
 
 [2] [3] [4]
-Overfull \hbox (6.72592pt too wide) in paragraph at lines 836--841
+Overfull \hbox (6.72592pt too wide) in paragraph at lines 862--867
 []$[]$\T1/lmr/m/n/10 , Ying H, \T1/lmr/bx/n/10 Thomas AG\T1/lmr/m/n/10 , Warsam
 e F, Shaf-fer AA, Hau-gen C, Garonzik-
  []
@@ -444,38 +444,34 @@ e F, Shaf-fer AA, Hau-gen C, Garonzik-
 [5] [6]
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\\' on input line 1014.
+(hyperref)                removing `\\' on input line 1040.
 
 [7]
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\\' on input line 1124.
+(hyperref)                removing `\\' on input line 1150.
 
 [8] 
 AED: lastpage setting LastPage
 [9]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 1242.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 1242.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 1268.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 1268.
  (./cv.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 1242.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 1242.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 1268.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 1268.
 
 Package rerunfilecheck Info: File `cv.out' has not changed.
-(rerunfilecheck)             Checksum: 6C39F432C44E3C4464EE7651B281F09B;872.
-
-
-LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
-
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 1242.
+(rerunfilecheck)             Checksum: 32AD835FFF1D2316464897B443635080;875.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 1268.
  ) 
 Here is how much of TeX's memory you used:
- 6383 strings out of 492995
- 94262 string characters out of 6132704
+ 6385 strings out of 492995
+ 94276 string characters out of 6132704
  192735 words of memory out of 5000000
  9768 multiletter control sequences out of 15000+600000
  42017 words of font info for 34 fonts, out of 8000000 for 9000
  1146 hyphenation exceptions out of 8191
- 28i,13n,43p,236b,468s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 28i,13n,43p,236b,470s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/local/texlive/2017/texmf-dist/fonts/enc/dvips/lm/lm-ec.enc}{/usr/local/
 texlive/2017/texmf-dist/fonts/enc/dvips/lm/lm-rm.enc}{/usr/local/texlive/2017/t
 exmf-dist/fonts/enc/dvips/lm/lm-mathsy.enc}</usr/local/texlive/2017/texmf-dist/
@@ -487,10 +483,10 @@ r/local/texlive/2017/texmf-dist/fonts/type1/public/lm/lmr10.pfb></usr/local/tex
 live/2017/texmf-dist/fonts/type1/public/lm/lmr7.pfb></usr/local/texlive/2017/te
 xmf-dist/fonts/type1/public/lm/lmri10.pfb></usr/local/texlive/2017/texmf-dist/f
 onts/type1/public/lm/lmsy10.pfb>
-Output written on cv.pdf (9 pages, 204270 bytes).
+Output written on cv.pdf (9 pages, 205067 bytes).
 PDF statistics:
- 296 PDF objects out of 1000 (max. 8388607)
- 273 compressed objects within 3 object streams
- 95 named destinations out of 1000 (max. 500000)
+ 301 PDF objects out of 1000 (max. 8388607)
+ 278 compressed objects within 3 object streams
+ 97 named destinations out of 1000 (max. 500000)
  129 words of extra memory for PDF output out of 10000 (max. 10000000)
 
