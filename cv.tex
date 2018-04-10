@@ -135,6 +135,18 @@
 \def\endbibsection{\oldendbibsection\vspace{-.6\baselineskip}}
 \makeatother
 
+\usepackage{etaremune}
+
+\newenvironment{bibenum*}
+  {\renewcommand\labelenumi{[\theenumi]}%
+   \etaremune[
+     topsep=0pt,
+     itemsep=\bibsep,
+     parsep=0pt,partopsep=0pt,
+     itemindent=-\bibhang,
+     leftmargin={\bibhang+\widthof{[999]}}]}
+  {\endetaremune}
+
 %% Reference the last page in the page number
 %
 % NOTE: comment the +LP line and uncomment the -LP line to have page
@@ -459,7 +471,7 @@ Lexington, VA
 
 \vspace{2mm}
 
-\begin{bibenum}
+\begin{bibenum*}
 
 \item Henderson ML, Adler JT, Van Pilsum Rasmussen SE, \textbf{Thomas AG},
   Herron PD, Waldram M, Ruck JM, Purnell TS, DiBrito SR, Holscher CM,
@@ -557,7 +569,7 @@ Lexington, VA
   \emph{The Journal of Pediatrics}. 2016 Nov 30; 178:34-9.
   \pmid{27496267} \doi{10.1016/j.jpeds.2016.06.077}
 
-\end{bibenum}
+\end{bibenum*}
 
 \section{Journal Articles \\Under Review}
 
@@ -659,7 +671,7 @@ Lexington, VA
 \vspace{2mm}
 
 \restartlist{bibenum}
-\begin{bibenum}
+\begin{bibenum*}
 
 \item \underline{\textbf{Thomas AG}}, Shaffer AA, Ying H, Norman S,
   Segev DL. McAdams-DeMarco M.
@@ -753,7 +765,7 @@ Lexington, VA
   In: \emph{American Transplant Congress},
   Chicago, IL, USA, April 29 - May 3, 2017.
 
-\end{bibenum}
+\end{bibenum*}
 
 \section{Conference Posters}
 
@@ -765,7 +777,7 @@ Lexington, VA
 \vspace{2mm}
 
 \restartlist{bibenum}
-\begin{bibenum}
+\begin{bibenum*}
 
 %\item \underline{Bae S}, Garonzik-Wang J, Jackson K, \textbf{Thomas AG},
 %  Luo X, Bahn G, Massie AB, Coresh J, Segev DL.
@@ -1004,7 +1016,7 @@ Lexington, VA
   cultured network connectivity. In: \emph{Society for Neuroscience},
   San Deigo, CA, USA, November 9-13, 2013.
 
-\end{bibenum}
+\end{bibenum*}
 
 \section{Invited Talks}
 \restartlist{bibenum}
