@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017) (preloaded format=pdflatex 2017.5.23)  26 JUL 2018 21:59
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017) (preloaded format=pdflatex 2017.5.23)  12 AUG 2018 21:01
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -446,59 +446,65 @@ LaTeX Font Info:    Font shape `OMS/lmr/bx/n' in size <10> not available
 {/usr/local/texlive/2017/texmf-var/fonts/map/pdftex/updmap/pdftex.map}] [2]
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\\' on input line 650.
+(hyperref)                removing `\\' on input line 670.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\\' on input line 692.
+(hyperref)                removing `\\' on input line 695.
 
 [3]
-Overfull \hbox (3.3926pt too wide) in paragraph at lines 775--782
+Overfull \hbox (1.53102pt too wide) in paragraph at lines 777--783
+[]$[]$\T1/lmr/m/n/10 , Ruck J, Shaf-fer A, Ying H, Nor-man S, Garonzik-Wang J, 
+Segev D, McAdams-
+ []
+
+
+Overfull \hbox (3.3926pt too wide) in paragraph at lines 791--798
 []$[]$\T1/lmr/m/n/10 , Ying H, \T1/lmr/bx/n/10 Thomas AG\T1/lmr/m/n/10 , Warsam
 e F, Shaf-fer AA, Hau-gen C, Garonzik
  []
 
 [4] [5] [6]
-Overfull \hbox (6.72592pt too wide) in paragraph at lines 1076--1081
+Overfull \hbox (6.72592pt too wide) in paragraph at lines 1099--1104
 []$[]$\T1/lmr/m/n/10 , Ying H, \T1/lmr/bx/n/10 Thomas AG\T1/lmr/m/n/10 , Warsam
 e F, Shaf-fer AA, Hau-gen C, Garonzik-
  []
 
 [7] [8]
-Underfull \hbox (badness 10000) in alignment at lines 1235--1240
+Underfull \hbox (badness 10000) in alignment at lines 1258--1263
 [][][][]
  []
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\\' on input line 1265.
+(hyperref)                removing `\\' on input line 1288.
 
 [9]
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\\' on input line 1376.
+(hyperref)                removing `\\' on input line 1399.
 
 [10] 
 AED: lastpage setting LastPage
 [11]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 1495.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 1495.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 1525.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 1525.
  (./cv.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 1495.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 1495.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 1525.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 1525.
 
 Package rerunfilecheck Info: File `cv.out' has not changed.
 (rerunfilecheck)             Checksum: A08EA520D96C8E103CFB0BE28E8A2F76;979.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 1495.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 1525.
  ) 
 Here is how much of TeX's memory you used:
- 6596 strings out of 492995
- 98209 string characters out of 6132704
- 198470 words of memory out of 5000000
+ 6594 strings out of 492995
+ 98195 string characters out of 6132704
+ 197470 words of memory out of 5000000
  10019 multiletter control sequences out of 15000+600000
  42017 words of font info for 34 fonts, out of 8000000 for 9000
  1146 hyphenation exceptions out of 8191
- 30i,13n,43p,236b,468s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 30i,14n,43p,236b,468s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/local/texlive/2017/texmf-dist/fonts/enc/dvips/lm/lm-ec.enc}{/usr/local/
 texlive/2017/texmf-dist/fonts/enc/dvips/lm/lm-rm.enc}{/usr/local/texlive/2017/t
 exmf-dist/fonts/enc/dvips/lm/lm-mathsy.enc}</usr/local/texlive/2017/texmf-dist/
@@ -510,10 +516,10 @@ r/local/texlive/2017/texmf-dist/fonts/type1/public/lm/lmr10.pfb></usr/local/tex
 live/2017/texmf-dist/fonts/type1/public/lm/lmr7.pfb></usr/local/texlive/2017/te
 xmf-dist/fonts/type1/public/lm/lmri10.pfb></usr/local/texlive/2017/texmf-dist/f
 onts/type1/public/lm/lmsy10.pfb>
-Output written on cv.pdf (11 pages, 214431 bytes).
+Output written on cv.pdf (11 pages, 215055 bytes).
 PDF statistics:
- 272 PDF objects out of 1000 (max. 8388607)
- 247 compressed objects within 3 object streams
- 43 named destinations out of 1000 (max. 500000)
+ 270 PDF objects out of 1000 (max. 8388607)
+ 245 compressed objects within 3 object streams
+ 41 named destinations out of 1000 (max. 500000)
  145 words of extra memory for PDF output out of 10000 (max. 10000000)
 
