@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017) (preloaded format=pdflatex 2017.5.23)  30 JUN 2019 23:12
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017) (preloaded format=pdflatex 2017.5.23)  2 JUL 2019 16:47
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -479,7 +479,7 @@ Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 (hyperref)                removing `\\' on input line 918.
 
 
-Overfull \hbox (1.53102pt too wide) in paragraph at lines 1007--1013
+Overfull \hbox (1.53102pt too wide) in paragraph at lines 1019--1025
 []$[]$\T1/lmr/m/n/10 , Ruck J, Shaf-fer A, Ying H, Nor-man S, Garonzik-Wang J, 
 Segev D, McAdams-
  []
@@ -487,25 +487,25 @@ Segev D, McAdams-
 [6] [7]
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\\' on input line 1595.
+(hyperref)                removing `\\' on input line 1613.
 
 [8]
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\\' on input line 1706.
+(hyperref)                removing `\\' on input line 1724.
 
 [9] 
 AED: lastpage setting LastPage
 [10]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 1787.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 1787.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 1805.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 1805.
  (./cv.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 1787.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 1787.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 1805.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 1805.
 
 Package rerunfilecheck Info: File `cv.out' has not changed.
 (rerunfilecheck)             Checksum: 0234090EB3162A15FA463DD284D95387;1088.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 1787.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 1805.
  ) 
 Here is how much of TeX's memory you used:
  6602 strings out of 492995
@@ -526,7 +526,7 @@ r/local/texlive/2017/texmf-dist/fonts/type1/public/lm/lmr10.pfb></usr/local/tex
 live/2017/texmf-dist/fonts/type1/public/lm/lmr7.pfb></usr/local/texlive/2017/te
 xmf-dist/fonts/type1/public/lm/lmri10.pfb></usr/local/texlive/2017/texmf-dist/f
 onts/type1/public/lm/lmsy10.pfb>
-Output written on cv.pdf (10 pages, 210784 bytes).
+Output written on cv.pdf (10 pages, 211286 bytes).
 PDF statistics:
  306 PDF objects out of 1000 (max. 8388607)
  282 compressed objects within 3 object streams
