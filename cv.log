@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017) (preloaded format=pdflatex 2017.5.23)  11 MAR 2021 19:43
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017) (preloaded format=pdflatex 2017.5.23)  16 MAR 2021 16:25
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -462,14 +462,14 @@ Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 [11] 
 AED: lastpage setting LastPage
 [12]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 2064.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 2064.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 2065.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 2065.
  (/Users/alvin/Documents/GitHub/cv/cv.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 2064.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 2064.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 2065.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 2065.
 Package rerunfilecheck Info: File `cv.out' has not changed.
 (rerunfilecheck)             Checksum: 01B7019F7750B430E6CEC2D5116CE0CE;1169.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 2064.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 2065.
  ) 
 Here is how much of TeX's memory you used:
  6607 strings out of 492995
@@ -480,7 +480,7 @@ Here is how much of TeX's memory you used:
  1146 hyphenation exceptions out of 8191
  30i,13n,43p,269b,529s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/local/texlive/2017/texmf-dist/fonts/enc/dvips/lm/lm-ec.enc}{/usr/local/texlive/2017/texmf-dist/fonts/enc/dvips/lm/lm-rm.enc}{/usr/local/texlive/2017/texmf-dist/fonts/enc/dvips/lm/lm-mathsy.enc}</usr/local/texlive/2017/texmf-dist/fonts/type1/public/lm/lmbsy10.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/lm/lmbx10.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/lm/lmbx12.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/lm/lmbxi10.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/lm/lmcsc10.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/lm/lmr10.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/lm/lmr7.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/lm/lmri10.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/lm/lmsy10.pfb>
-Output written on /Users/alvin/Documents/GitHub/cv/cv.pdf (12 pages, 220630 bytes).
+Output written on /Users/alvin/Documents/GitHub/cv/cv.pdf (12 pages, 220663 bytes).
 PDF statistics:
  336 PDF objects out of 1000 (max. 8388607)
  309 compressed objects within 4 object streams
